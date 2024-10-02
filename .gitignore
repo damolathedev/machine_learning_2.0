@@ -1,0 +1,15 @@
+# Ignore the Include, share, Lib, Scripts directories and .venv folder
+/Include
+/share
+/Lib
+/Scripts
+/.venv
+
+# Ignore configuration files
+*.cfg
+
+# Ignore the model file
+my_california_housing_model.pkl
+
+# Add a motivational message (this line is just a comment)
+/don't give up
